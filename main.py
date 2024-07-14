@@ -15,7 +15,7 @@ import datetime
 
 # Define the website to scrape and path where the chromedriver is located
 website = 'https://www.summitracing.com/search/brand/backrack?GroupBy=ProductName' # starting url point
-path = r'C:\Users\Mark Lumba\Documents\Selenium_Webscraping\chromedriver.exe'  # webdriver path
+path = r'local path webdriver'  # webdriver 
 
 
 # Create Chrome options and add the argument to ignore certificate errors
