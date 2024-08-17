@@ -24,6 +24,7 @@ Run the script: Execute the script using a Python interpreter (e.g., python main
 Output:
 
 The script creates an Excel file named BackRack_Applications_Scrape_<current_date>.xlsx on your Desktop. The file contains a sheet with the extracted application data for each BackRack part number.
+![Screenshot 2024-08-17 144632](https://github.com/user-attachments/assets/7156cd94-5361-4506-8b1f-cb439426d0b3)
 
 Disclaimer:
 
