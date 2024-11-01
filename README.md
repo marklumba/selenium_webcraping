@@ -56,7 +56,8 @@ python main.py
 
 The script generates an Excel file named:
 ```
-BackRack_Applications_Scrape_<current_date>.xlsx
+BackRack_Applications_Sc![Screenshot 2024-11-01 215359](https://github.com/user-attachments/assets/d2fec7b9-f127-4bed-a9a3-75fb9a8826b1)
+rape_<current_date>.xlsx
 ```
 This file will be saved to your **Desktop**, containing the application data for each part number.
 
