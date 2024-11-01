@@ -1,6 +1,3 @@
-Here's an enhanced version of your documentation with visual appeal, better organization, and clarity:
-
----
 
 # 🚀 **Selenium Web Scraping - BackRack Applications**
 
